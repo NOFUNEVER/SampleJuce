@@ -6,7 +6,7 @@
   ==============================================================================
 */
 
-#include <JuceHeader.h>
+#include "JuceHeader.h"
 #include "MainComponent.h"
 
 //==============================================================================
@@ -99,6 +99,8 @@ public:
 private:
     std::unique_ptr<MainWindow> mainWindow;
 };
+
+      
 
 //==============================================================================
 // This macro generates the main() routine that launches the app.

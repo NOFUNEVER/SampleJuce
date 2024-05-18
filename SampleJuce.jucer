@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="t0ZE2n" name="SampleJuce" projectType="guiapp" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+<JUCERPROJECT id="t0ZE2n" name="SampleJuce" projectType="guiapp" jucerFormatVersion="1">
   <MAINGROUP id="DLL71z" name="SampleJuce">
     <GROUP id="{74FFF679-CA17-823E-BEC3-63D319CB3F86}" name="Source">
       <FILE id="zVz9ve" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
